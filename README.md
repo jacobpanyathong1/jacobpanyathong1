@@ -1,18 +1,36 @@
-### Hi there 👋
+
+
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47ys1odl1qdcxcnezdnolqitwgfi2k1sn2cknof211&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/jacob-panyathong/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/goodmorningjacob/?igshid=ZDdkNTZiNTM%3D">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/JacobPanyathong">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+    <a>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+   </a>
+  </div>
+<div>
+  <a>
+  <H1>Hi there 👋
+  </H1>
+  </a>
+  <a>
+    <p>Welcome!</p>
+    <p> Thank you for visiting my page!</p>
+    <p> My name is Jacob Panyathong and I am a Data Analyst. I am currently enrolled as a Data Scientist at Codeup LLC and fine-tuning my skills in SQL and          Python. </p>
+    <p></p>
+  </a>
+  </div>
 
 <!--
 **jacobpanyathong1/jacobpanyathong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
