@@ -27,8 +27,8 @@
   <a>
     <p>Welcome!</p>
     <p> Thank you for visiting my page!</p>
-    <p> My name is Jacob Panyathong and I am a Data Scientist. I am currently enrolled as a Data Scientist at Codeup LLC and fine-tuning my skills in SQL and          Python. </p>
-    <p></p>
+    <p> My name is Jacob Panyathong and I am a Data Scientist. I am currently enrolled as a Data Scientist at Codeup LLC and currently open for work. </p>
+    <p>Connect with me on my social media platforms here to discuss what projects I am currently working on.</p>
   </a>
   </div>
 
