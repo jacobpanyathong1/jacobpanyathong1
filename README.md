@@ -21,7 +21,7 @@
   </div>
 <div>
   <a>
-  <H1>Hi there 👋
+  <H1>Hi There! 👋
   </H1>
   </a>
   <a>
